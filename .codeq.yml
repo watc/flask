@@ -1,0 +1,3 @@
+tools:
+  - pep8
+  - pyflakes
